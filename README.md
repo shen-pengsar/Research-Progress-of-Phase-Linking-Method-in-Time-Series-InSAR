@@ -4,12 +4,10 @@ Reference: SHEN Peng, WANG Changcheng, LIAO Mingsheng, ZHANG Lu, DONG Jie, and D
 
 %% @1 Description of Simulated Experiment
 
-%  This code implements multi-temporal SAR coherence modeling, Monte Carlo data simulation,
-%  performance comparison of multiple phase linking algorithms, and deformation velocity inversion analysis.
+%  This code implements multi-temporal SAR coherence modeling, Monte Carlo data simulation, performance comparison of multiple phase linking algorithms, and deformation velocity inversion analysis.
 
 %% @2 Description of Real Experiment
 
-%  This code loads real SAR data, applies different phase linking methods, computes temporal coherence, and
-%  visualizes both interferometric phase and temporal coherence for comparison.
+%  This code loads real SAR data, applies different phase linking methods, computes temporal coherence, and visualizes both interferometric phase and temporal coherence for comparison.
 
 If anyone wants the code, please email me (shen-peng@whu.edu.cn) attached your personal information, including name, organization and title, and then I will send the password over.
